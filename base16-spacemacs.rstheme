@@ -2,6 +2,7 @@
 /* rsthemes 0.2.1.9000 */
 /* https://github.com/gadenbuie/rsthemes */
 /* rs-theme-name: base16 Spacemacs {rsthemes} */
+/* Spacemacs theme*/
 /* Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme) */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
